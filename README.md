@@ -42,18 +42,16 @@ Aplikasi ini ber tema toko bakery dan dessert yang menampilkan informasi produk 
 
 ## Dokumentasi Tampilan
 
-### Dokumentasi SweetBite
-
-### Halaman Login
+### 1. Halaman Login
 <img src="screenshoots/login.png" width="700">
 
-### Halaman Dashboard
+### 2. Halaman Dashboard
 <img src="screenshoots/dashboard.png" width="700">
 
-### Halaman Profile
+### 3. Halaman Profile
 <img src="screenshoots/profile.png" width="700">
 
-### Halaman Pengelolaan
+### 4. Halaman Pengelolaan
 <img src="screenshoots/pengelolaan.png" width="700">
 
 ## Identitas
