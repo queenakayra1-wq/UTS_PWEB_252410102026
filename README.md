@@ -42,17 +42,19 @@ Aplikasi ini ber tema toko bakery dan dessert yang menampilkan informasi produk 
 
 ## 📸 Dokumentasi Tampilan
 
-### 1. Halaman Login
-![Halaman Login](screenshots/login.png)
+### Dokumentasi SweetBite
 
-### 2. Halaman Dashboard
-![Halaman Dashboard](screenshots/dashboard.png)
+### Halaman Login
+<img src="screenshots/login.png" width="700">
 
-### 3. Halaman Profile
-![Halaman Profile](screenshots/profile.png)
+### Halaman Dashboard
+<img src="screenshots/dashboard.png" width="700">
 
-### 4. Halaman Pengelolaan
-![Halaman Pengelolaan](screenshots/pengelolaan.png)
+### Halaman Profile
+<img src="screenshots/profile.png" width="700">
+
+### Halaman Pengelolaan
+<img src="screenshots/pengelolaan.png" width="700">
 
 ## Identitas
 - Nama: Queena Kayra Andhara
