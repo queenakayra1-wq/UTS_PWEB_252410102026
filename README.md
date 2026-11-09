@@ -1,58 +1,61 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# SweetBite 
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+SweetBite merupakan aplikasi berbasis web sederhana yang dibuat untuk memenuhi tugas Ujian Tengah Semester Pemrograman Web 2026.
 
-## About Laravel
+Aplikasi ini ber tema toko bakery dan dessert yang menampilkan informasi produk berupa nama produk, harga, dan stok.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Teknologi yang Digunakan
+- PHP
+- Laravel
+- Blade Template
+- HTML
+- CSS
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Fitur Aplikasi
+1. **Login** – Pengguna memasukkan username untuk masuk ke aplikasi.
+2. **Dashboard** – Menampilkan sapaan pengguna dan daftar produk SweetBite.
+3. **Profile** – Menampilkan informasi akun pengguna.
+4. **Pengelolaan Produk** – Menampilkan daftar produk beserta harga dan stok.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Struktur Aplikasi
+- `routes/web.php`
+- `app/Http/Controllers/PageController.php`
+- `resources/views/layouts/app.blade.php`
+- `resources/views/components/navbar.blade.php`
+- `resources/views/components/footer.blade.php`
+- `resources/views/components/product-card.blade.php`
+- `resources/views/login.blade.php`
+- `resources/views/dashboard.blade.php`
+- `resources/views/profile.blade.php`
+- `resources/views/pengelolaan.blade.php`
 
-## Learning Laravel
+## Cara Menjalankan Aplikasi
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+1. Buka terminal pada folder proyek.
+2. Jalankan perintah:
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+   `php artisan serve`
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+3. Buka browser dan akses:
 
-## Agentic Development
+   `http://127.0.0.1:8000`
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+## 📸 Dokumentasi Tampilan
 
-```bash
-composer require laravel/boost --dev
+### 1. Halaman Login
+![Halaman Login](screenshots/login.png)
 
-php artisan boost:install
-```
+### 2. Halaman Dashboard
+![Halaman Dashboard](screenshots/dashboard.png)
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+### 3. Halaman Profile
+![Halaman Profile](screenshots/profile.png)
 
-## Contributing
+### 4. Halaman Pengelolaan
+![Halaman Pengelolaan](screenshots/pengelolaan.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Identitas
+- Nama: Queena Kayra Andhara
+- NIM: 252410102026
+- Kelas: C
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
