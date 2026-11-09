@@ -43,16 +43,16 @@ Aplikasi ini ber tema toko bakery dan dessert yang menampilkan informasi produk 
 ## Dokumentasi Tampilan
 
 ### 1. Halaman Login
-<img src="screenshoots/login.png" width="700">
+<img src="Screenshoots/login.png" width="700">
 
 ### 2. Halaman Dashboard
-<img src="screenshoots/dashboard.png" width="700">
+<img src="Screenshoots/dashboard.png" width="700">
 
 ### 3. Halaman Profile
-<img src="screenshoots/profile.png" width="700">
+<img src="Screenshoots/profile.png" width="700">
 
 ### 4. Halaman Pengelolaan
-<img src="screenshoots/pengelolaan.png" width="700">
+<img src="Screenshoots/pengelolaan.png" width="700">
 
 ## Identitas
 - Nama: Queena Kayra Andhara
