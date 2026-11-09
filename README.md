@@ -40,21 +40,21 @@ Aplikasi ini ber tema toko bakery dan dessert yang menampilkan informasi produk 
 
    `http://127.0.0.1:8000`
 
-## 📸 Dokumentasi Tampilan
+## Dokumentasi Tampilan
 
 ### Dokumentasi SweetBite
 
 ### Halaman Login
-<img src="screenshots/login.png" width="700">
+<img src="screenshoots/login.png" width="700">
 
 ### Halaman Dashboard
-<img src="screenshots/dashboard.png" width="700">
+<img src="screenshoots/dashboard.png" width="700">
 
 ### Halaman Profile
-<img src="screenshots/profile.png" width="700">
+<img src="screenshoots/profile.png" width="700">
 
 ### Halaman Pengelolaan
-<img src="screenshots/pengelolaan.png" width="700">
+<img src="screenshoots/pengelolaan.png" width="700">
 
 ## Identitas
 - Nama: Queena Kayra Andhara
